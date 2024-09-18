@@ -1,14 +1,13 @@
-.image img{
-    height: 120px;
-    width: 130px;
-    margin-top: 80px;
-    margin-left: 25%;
-}
 .image p {
-    position: absolute;
-    margin-left: 40%;   
+    margin-left: 40%; 
 }
 .image h2 {
     margin-left: 40%;   
-
+}
+.image img{
+    height: 120px;
+    width: 130px;
+    margin-top: 50px;
+    margin-left: 25%;
+    position: fixed;
 }
