@@ -30,17 +30,19 @@ p {
     margin: 0 auto;
     box-sizing: border-box;
 }
-.information {
+.Information {
     text-align: center;
     padding: 10px;
-    border-bottom: 1px solid black;
+    border: 1px solid black;
 }
 .Information h2 {
     margin: 0;
-    font-size: 20px;
     text-align: center;
 }
 .gen-inf {
     width: 100%;
     margin-top: 10px;
+}
+.gen-inf td {
+    padding: 10px;
 }
