@@ -21,7 +21,9 @@ body {
 }
 h1 {
     text-align: center;
+    letter-spacing: 10px;
 }
+/* STUDENT GENERAL INFORMATION */
 
 .container {
     width: 100%;
@@ -41,4 +43,16 @@ h1 {
 .gen-inf {
     width: 100%;
     margin-top: 10px;
+}
+
+/* SUBJECTS */
+.container2 {
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.subject {
+    border: 1px solid black;
+    background-color: #E5D9F2;
 }
