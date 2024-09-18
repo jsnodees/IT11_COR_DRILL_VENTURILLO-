@@ -4,3 +4,6 @@
     margin-top: 80px;
     margin-left: 25%;
 }
+.image p {
+    float: inline-end;
+}
