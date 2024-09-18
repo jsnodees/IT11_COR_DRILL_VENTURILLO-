@@ -21,3 +21,6 @@ body {
 h1 {
     text-align: center;
 }
+p {
+    padding-left: 20px;
+}
