@@ -45,11 +45,17 @@ h1 {
     margin-top: 10px;
 }
 
-/* SUBJECTS
+/* SUBJECTS */
 .container2 {
-    width: 100%;
-    margin: 0 auto;
-    box-sizing: border-box;
     border: 1px solid black;
+    font-size: 15px;
 }
-*/
+
+.subject th {
+    width: 10%;
+    text-align: center;
+    background-color: #E5D9F2;
+    border-collapse: collapse;
+    margin: 0 auto;
+
+}
