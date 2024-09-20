@@ -50,12 +50,27 @@ h1 {
     border: 1px solid black;
     font-size: 15px;
 }
-
 .subject th {
-    width: 10%;
-    text-align: center;
+    width: 5%;
     background-color: #E5D9F2;
-    border-collapse: collapse;
-    margin: 0 auto;
 
+}
+.container-cont {
+    border: 1px solid black;
+}
+.content {
+    width: 100%;
+    text-align: left;
+    padding: 0 auto;
+}
+.content td {
+    width: 5%;
+}
+.assessed {
+    width: 40%;
+    border: 1px solid black;
+    font-size: 15px;
+    background-color: #E5D9F2;
+    text-align: center;
+    letter-spacing: 10px;
 }
