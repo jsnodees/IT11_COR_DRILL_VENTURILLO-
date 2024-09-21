@@ -66,6 +66,10 @@ h1 {
 .content td {
     width: 5%;
 }
+
+.content td.t-units {
+    text-decoration: overline;
+}
 .assessed {
     margin: 50px;
     width: 40%;
