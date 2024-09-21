@@ -67,6 +67,7 @@ h1 {
     width: 5%;
 }
 .assessed {
+    margin: 50px;
     width: 40%;
     border: 1px solid black;
     font-size: 15px;
