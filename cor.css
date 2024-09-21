@@ -74,6 +74,7 @@ h1 {
     margin: 50px;
     width: 40%;
     border: 1px solid black;
+    border-bottom: 3px solid black;
     font-size: 15px;
     background-color: #E5D9F2;
     text-align: center;
