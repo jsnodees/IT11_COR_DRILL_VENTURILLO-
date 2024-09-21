@@ -70,13 +70,24 @@ h1 {
 .content td.t-units {
     text-decoration: overline;
 }
-.assessed {
-    margin: 50px;
+.cont {
+    margin: 30px;
     width: 40%;
     border: 1px solid black;
-    border-bottom: 3px solid black;
+}
+.cont p {
+    margin: 0;
     font-size: 15px;
-    background-color: #E5D9F2;
+    font-weight: bolder;
     text-align: center;
     letter-spacing: 10px;
+    border-bottom: 3px solid black;
+    background-color: #E5D9F2;
+
+
+}
+.contbox {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
 }
