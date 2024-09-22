@@ -89,7 +89,7 @@ table {
     border-bottom: 3px solid black;
     background-color: #E5D9F2;
 }
-.contbox {
+.contbox{
     display: flex;
     justify-content: center;
     margin: 0 auto;
