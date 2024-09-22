@@ -94,3 +94,41 @@ table {
     justify-content: center;
     margin: 0 auto;
 }
+.totalsection{
+    border-top: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+.totalsection td {
+    padding: 5px;
+}
+.assess {
+    border: 1px solid black;
+
+}
+.payment {
+    border: 1px solid black;
+}
+.balance {
+    border: 1px solid black;
+}
+td.totalassess {
+    padding-left: 100px;
+}
+td.totalcurrency {
+    padding-left: 40px;
+}
+td.totalamount {
+    padding-left: 100px;
+    text-decoration: overline;
+}
+td.totalpay {
+    padding-left: 125px;
+}
+td.toamount {
+    padding-left: 210px;
+    text-decoration: overline;
+}
+td.totalbal {
+    padding-left: 75px;
+}
