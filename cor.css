@@ -75,9 +75,14 @@ h1 {
 table {
     border-collapse: collapse;
 }
-
+.maincont{
+    display: flex;
+    justify-content: first baseline;
+    align-items: flex-start;
+}
 .cont {
-    margin: 30px;
+    margin: 50px;
+    margin-right: 80px;
     width: 40%;
     border: 1px solid black;
 }
@@ -142,4 +147,14 @@ td.totalbal {
 }
 .Schedule table, .Schedule td {
     border: 1px solid black;
+}
+.valid p {
+    text-align: right;
+    margin-left: 50px;
+}
+.rules {
+    width: 45%;
+}
+.rules h3 {
+    margin-top: 50px;
 }
