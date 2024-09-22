@@ -57,6 +57,7 @@ h1 {
 }
 .container-cont {
     border: 1px solid black;
+    
 }
 .content {
     width: 100%;
@@ -141,4 +142,8 @@ td.totalbal {
 }
 .Schedule table, .Schedule td {
     border: 1px solid black;
+}
+.rules {
+    margin-left: 200px;
+    margin-top: 200px;
 }
