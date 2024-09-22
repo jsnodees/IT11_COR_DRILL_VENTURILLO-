@@ -158,3 +158,16 @@ td.totalbal {
 .rules h3 {
     margin-top: 50px;
 }
+.printed p{
+    text-align: end;
+    margin: 0;
+}
+.bottom {
+    border: 1px solid black;
+    background-color: #E5D9F2;
+}
+.bottom p {
+    text-align: center;
+    font-size: 15px;
+    margin: 0 auto;
+}
