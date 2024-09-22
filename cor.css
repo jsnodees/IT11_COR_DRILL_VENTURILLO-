@@ -132,3 +132,13 @@ td.toamount {
 td.totalbal {
     padding-left: 75px;
 }
+.Schedule p {
+    background-color: #7FA1C3;
+}
+.Schedule table{
+    width: 100%;
+    text-align: center;
+}
+.Schedule table, .Schedule td {
+    border: 1px solid black;
+}
